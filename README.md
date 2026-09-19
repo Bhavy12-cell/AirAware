@@ -4,6 +4,8 @@ AirAware is an AI-powered environmental awareness platform that helps users unde
 
 The project combines **Gemini AI, Prompt Engineering, RAG, AQI analysis, trend analysis, and intelligent alerts** to convert complex air-quality information into simple and actionable guidance.
 
+## Live Link:-https://airaware-ai-air-quality-climate-awareness-assista.ai.studio
+
 ---
 
 ## 🎯 Problem Statement
