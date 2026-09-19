@@ -1,0 +1,6 @@
+{
+  "name": "AirAware – AI Air Quality & Climate Awareness Assistant",
+  "description": "Interactive AI-powered air quality and climate awareness platform aligned with SDG 11 & SDG 13, featuring real-time city AQI metrics, 7-day trends, an AI health advisor, interactive AQI guides, and safety tips.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
